@@ -1,2 +1,3 @@
 # search-bar-react-practice
-Created with CodeSandbox
+
+- An accessible search bar component for your React app
